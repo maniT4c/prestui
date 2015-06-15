@@ -24,7 +24,7 @@
 
 
 <script type="riot/tag">
-	<ps-form-group>
+	<ps-form-group> 
 
 		{if $ps_version == '1.6'}
 
